@@ -10,7 +10,7 @@ A multi-product AI Support Agent powered by **n8n** and **GPT-4o-mini**. This wo
     * **BunnyDesk:** Time tracking and work logs.
 * **Intelligent Routing:** Analyzes user intent (Setup, Bug, How-to, Pricing) and Product context before formulating a reply.
 * **Context Awareness:** Maintains a conversation memory (Window Buffer) for natural follow-up questions.
-* **Structured Output:** Returns clean JSON responses with escalation flags (`needsEscalation: true/false`).
+* **Structured Output:** Returns clean JSON responses with escalation flag (`needsEscalation: true/false`).
 
 ## 🛠️ Architecture
 
